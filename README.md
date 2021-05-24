@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/GNDavydov/lab04.svg?branch=main)](https://travis-ci.org/GNDavydov/lab04)
+[![Build Status](https://travis-ci.com/gittut-7/lab04.svg?branch=master)](https://travis-ci.com/gittut-7/lab04)
 This is an example Print program in c++.
